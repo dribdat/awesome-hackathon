@@ -31,26 +31,25 @@ These are a range of handbooks, frameworks, utilities and online tools for solvi
 - [make.opendata.ch guide](http://make.opendata.ch/wiki/information:rules) - a short principled list for open data hackathons.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) (in German) - an in-depth guide to organizing youth events.
 
-### Promotion
+### Promoting
 
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io) -  A list of upcoming hackathons from around the world. 
 
-### Communication
+### Organizing
 
-- [dridbot](https://github.com/hackathons-ftw/dridbot) - chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons.
 - [boilerbot](https://github.com/BoilerMake/boilerbot) by BoilerMake. Take control of your Slack by creating groups, assigning tasks, and more!
 - [hubot-redisred](https://github.com/Detry322/hubot-redisred), [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 
-### Team-building
+### Teambuilding
 
- 
+- [dridbot](https://github.com/hackathons-ftw/dridbot) - chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons. 
 
 ### Coaching
 
 - [treehacks-mentorbot](https://github.com/TreeHacks/slack-mentorship) by TreeHacks. Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
 - [hackmit-HELPq](https://github.com/ehzhang/helpq) by HackMIT. Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 
-### Evaluation
+### Evaluating
 
 - [gavel](https://github.com/anishathalye/gavel) by HackMIT. A project expo judging system that uses fancy math to get good results.
 - [expo table app](https://github.com/nealrs/expo#fork-destination-box) Create a Devpost Expo table frontend
