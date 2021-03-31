@@ -30,6 +30,10 @@ These are a range of handbooks, frameworks, utilities and online tools for solvi
 - [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - for Major League Hacking.
 - [make.opendata.ch guide](http://make.opendata.ch/wiki/information:rules) - a short principled list for open data hackathons.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) (in German) - an in-depth guide to organizing youth events.
+- [Mediawiki Hackathons handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook)
+- [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/)
+- [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon)
+- [Opendata.ch Guide to Remote Hackdays](https://forum.opendata.ch/t/a-guide-to-remote-hackdays)
 
 ### Promoting
 
