@@ -13,11 +13,12 @@ If you are looking for tools for participants, see [Awesome Hackathon Starters](
 
 These are applications that are specifically designed to run [hackathons](https://en.wikipedia.org/wiki/Hackathon), or which have effectively adapted for use in events of this type. In alphabetical order. Open source projects only.
 
-- [dribdat](https://github.com/hackathons-ftw/dribdat) - An online accelerator of Hackathons with Impact, based on open data and open web standards. Built using Python and Bootstrap.
-- [hackdash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard. Built using Node.js and MongoDB.
-- [hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
-- [quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons. Built using Node.js by the HackMIT team.
-- [versusvirus-app](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - Web application for managing registration to large online hackathons.
+- [dribdat](https://github.com/dribdat/dribdat) - Hackathons with Impact, based on open data and web standards (Python)
+- [hackdash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard. (Node.js, MongoDB)
+- [hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons. Created by g0v (Node.js)
+- [junctionapp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers. Maintained by Junction (Node.js)
+- [quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons. Maintained by HackMIT (Node.js)
+- [versusvirus-app](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - Managing team building at large online hackathons (Node.js)
 
 ## Tools
 
@@ -46,7 +47,7 @@ These are a range of handbooks, frameworks, utilities and online tools for solvi
 
 ### Teambuilding
 
-- [dridbot](https://github.com/hackathons-ftw/dridbot) - chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons. 
+- [dridbot](https://github.com/dribdat/dridbot) - chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons.
 
 ### Coaching
 
