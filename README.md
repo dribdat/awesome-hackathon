@@ -4,7 +4,7 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 This list tries to cover what is awesome about hackathons, hackdays and hacknights, and the community of organizers who run them! 👁⚡️👁
 
-To enhance this list, please refer to the [Contributor guide](contributing.md).
+To enhance this list, please refer to the [Contributing](#Contributing) section.
 
 ## Contents
 
@@ -61,7 +61,7 @@ These are helpful handbooks and articles that will give you some orientation, an
 - [Opendata.ch Guidelines](http://make.opendata.ch/wiki/information:rules) - A short principled list for open data hackathons from the Swiss community.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
 - [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - Suggestions from the Mediawiki community (which powers Wikipedia).
-- [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - for Major League Hacking, popular at US schools.
+- [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - Guide from Major League Hacking, popular at US schools.
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
 
 ## Contributing
