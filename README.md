@@ -26,6 +26,7 @@ These are a range of handbooks, frameworks, utilities and online tools for solvi
 
 ### Guides
 
+- [dribdat wiki](https://github.com/dribdat/docs/wiki) - An effort to refresh community guidelines.
 - [hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by Joshua Tauberer based on running and participating in many hackathons.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
 - [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - for Major League Hacking.
@@ -34,7 +35,6 @@ These are a range of handbooks, frameworks, utilities and online tools for solvi
 - [Mediawiki Hackathons handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook)
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/)
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon)
-- [Opendata.ch Guide to Remote Hackdays](https://forum.opendata.ch/t/a-guide-to-remote-hackdays)
 
 ### Promoting
 
