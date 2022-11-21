@@ -68,7 +68,7 @@ These are helpful handbooks and articles that will give you some orientation, an
 
 Contributions welcome! Please only suggest tools if they are actively maintained. Read the [contribution guidelines](contributing.md) first for other details.
 
-### Thanks
+## Footnotes
 
 This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
 
