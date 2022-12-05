@@ -12,11 +12,11 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ## Platforms
 
-By awesome hackathon platforms, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results.
+By awesome hackathon platforms, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results. In alphabetical order.
 
-### Open Source Platforms
+### Open Source
 
-These are open source applications that can be run with a cloud provider or self-hosted, and allow full control of the data. Being open source efforts, they typically embrace open standards and are developed by non-profits and volunteer communities. In alphabetical order.
+These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
 - [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards. `Python`
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard. `Node`
@@ -25,9 +25,9 @@ These are open source applications that can be run with a cloud provider or self
 - [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT. `Node`
 - [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing team building at large online hackathons, currently unmaintained. `Node`
 
-### Commercial Platforms
+### Commercial
 
-Established and startup commercial, non-open-source platforms for hackathons. Despite having a presence on GitHub, the core applications are closed-source projects, and are therefore marked with a lock icon (🔒).
+Despite having a presence on GitHub, the core applications these companies operate their service on are closed-source projects, and are therefore marked with a lock icon (🔒).
 
 - [Devfolio](https://github.com/devfolioco) 🔒 - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) 🔒 - A company whose customers market developer tools and jobs to the community.
@@ -61,7 +61,7 @@ These are frameworks, utilities and online tools for solving a variety of issues
 
 ## Guides
 
-These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event. In alphabetical order.
+These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - A wiki to refresh community guidelines from the dribdat open source project.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
@@ -75,7 +75,7 @@ These are helpful handbooks and articles that will give you some orientation, an
 
 ## Contributing
 
-Contributions welcome! Please only suggest tools if they are actively maintained. Read the [contribution guidelines](contributing.md) first for other details. There is a strong preference on open source and open access, but please mark any _awesome_ yet closed-source tools or articles behind paywalls with 🔒
+Contributions welcome! Please only suggest tools if they are actively maintained. Read the [contribution guidelines](contributing.md) first for other details. Make sure to provide a name, link, description, in alphabetical order. There is a strong preference on open source and open access, but please mark any _awesome_ yet closed-source tools or articles behind paywalls with 🔒
 
 ## Footnotes
 
