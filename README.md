@@ -18,19 +18,19 @@ By awesome hackathon platforms, we mean web or mobile applications that are spec
 
 These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
-- [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards. `Python`
-- [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard. `Node`
-- [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons. `Node`
-- [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction. `Node`
-- [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT. `Node`
-- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing team building at large online hackathons, currently unmaintained. `Node`
+- [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards.
+- [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
+- [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
+- [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
+- [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
+- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing team building at large online hackathons, currently unmaintained.
 
 ### Commercial
 
-Despite having a presence on GitHub, the core applications these companies operate their service on are closed-source projects, and are therefore marked with a lock icon (🔒).
+Despite having a presence on GitHub, the core applications these companies operate their service on are closed source (🔒).
 
-- [Devfolio](https://github.com/devfolioco) 🔒 - Supporting India's 'largest and fastest growing community of builders'.
-- [Devpost](https://github.com/challengepost) 🔒 - A company whose customers market developer tools and jobs to the community.
+- [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
+- [Devpost](https://github.com/challengepost) - A company whose customers market developer tools and jobs to the community.
 
 ## Tooling
 
@@ -75,7 +75,7 @@ These are helpful handbooks and articles that will give you some orientation, an
 
 ## Contributing
 
-Contributions welcome! Please only suggest tools if they are actively maintained. Read the [contribution guidelines](contributing.md) first for other details. Make sure to provide a name, link, description, in alphabetical order. There is a strong preference on open source and open access, but please mark any _awesome_ yet closed-source tools or articles behind paywalls with 🔒
+Contributions welcome! Please only suggest tools if they are actively maintained. Read the [contribution guidelines](contributing.md) first for other details. Make sure to provide a name, link, description, in alphabetical order. There is a strong preference on open source and open access, but please mark any _awesome_ yet closed-source tools or articles behind paywalls with a lock icon (🔒).
 
 ## Footnotes
 
