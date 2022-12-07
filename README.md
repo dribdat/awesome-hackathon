@@ -12,7 +12,7 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ## Platforms
 
-By awesome hackathon platforms, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results. In alphabetical order.
+By awesome hackathon platforms, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results.
 
 ### Open Source
 
@@ -24,6 +24,7 @@ These can be run with a cloud provider or self-hosted, to take full control of t
 - [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
 - [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
 - [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing team building at large online hackathons, currently unmaintained.
+- [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 
 ### Commercial
 
