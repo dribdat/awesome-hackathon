@@ -12,11 +12,11 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ## Platforms
 
-By awesome hackathon platforms, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results.
+> By _awesome hackathon platforms_, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results.
 
 ### Open Source
 
-These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
+> These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
 - [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards.
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
@@ -26,16 +26,32 @@ These can be run with a cloud provider or self-hosted, to take full control of t
 - [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing team building at large online hackathons, currently unmaintained.
 - [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 
-### Commercial
+### Closed Source
 
-Despite having a presence on GitHub, the core applications these companies operate their service on are closed source (🔒).
+> Despite having a presence on GitHub, the core sources of these applications are at this time closed (🔒). 
 
+- [Agorize](https://github.com/agorize) - A French company that provides open innovation software.
 - [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
-- [Devpost](https://github.com/challengepost) - A company whose customers market developer tools and jobs to the community.
+- [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
+- [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
+
+### Organisations
+
+> Companies that provide products and services for, or regularly organise, hackathons.
+
+- [Eventornado](https://eventornado.com/) provides an all-in-one platform for organising a hackathon.
+- [Hackathon.com](https://hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
+- [HackerEarth](https://www.hackerearth.com/) is a commercial platform for sourcing, assessing, interviewing, and upskilling developers.
+- [HYPE](https://www.hypeinnovation.com/en/about) provides software to help idea and innovation managers collect and manage ideas.
+- [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
+- [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and organises hackathons, and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for using their products to run an event.
+- [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprises, whose spin-offs like [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/) are still active.
+- [Tulula](https://tulu.la/hackathons-and-challenges) runs online competitions and hackathons based on an [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start).
+- [Unstop](https://unstop.com/) provides virtual event platforms to organize hackathons and coding tests.
 
 ## Tooling
 
-These are frameworks, utilities and online tools for solving a variety of issues that hackathon organizers commonly face. They often have some way of integrating with the platforms above.  
+> These are frameworks, utilities and online tools for solving a variety of issues that hackathon organizers commonly face. They often have some way of integrating with the platforms above.  
 
 ### Promoting
 
@@ -62,7 +78,7 @@ These are frameworks, utilities and online tools for solving a variety of issues
 
 ## Guides
 
-These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
+> These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - A wiki to refresh community guidelines from the dribdat open source project.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
@@ -73,6 +89,7 @@ These are helpful handbooks and articles that will give you some orientation, an
 - [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - Suggestions from the Mediawiki community (which powers Wikipedia).
 - [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - Guide from Major League Hacking, popular at US schools.
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
+- [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - Comprehensive instructions from a popular Web3 community.
 
 ## Contributing
 
