@@ -80,16 +80,17 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 > These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
-- [Dribdat wiki](https://github.com/dribdat/docs/wiki) - A wiki to refresh community guidelines from the dribdat open source project.
+- [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
-- [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by Joshua Tauberer based on running and participating in many hackathons.
+- [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [Opendata.ch Guidelines](http://make.opendata.ch/wiki/information:rules) - A short principled list for open data hackathons from the Swiss community.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
+- [McKinsey: Demystifying the hackathon](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon) - For digital transformation of large organizations.
 - [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - Suggestions from the Mediawiki community (which powers Wikipedia).
 - [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - Guide from Major League Hacking, popular at US schools.
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
-- [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - Comprehensive instructions from a popular Web3 community.
+- [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - From a popular Web3 community.
 
 ## Contributing
 
