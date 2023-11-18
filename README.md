@@ -20,13 +20,17 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 - [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards.
 - [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
+- [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) -  All-in-one platform for hackathon registration & logistics. 🧊 `Unmaintained`
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
+- [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
+- [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 - [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
 - [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed especially for hackathons and similar competitions.
+- [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform. 🧊 `Unmaintained`
 - [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
 - [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
-- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons, unmaintained.
+- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons. 🧊 `Unmaintained`
 - [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 
 ### Closed Source
@@ -64,9 +68,12 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ### Promoting
 
-- [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme)🕶️  - A crowdsourced 'Awesome List' of companies to contact.
+- [Find Hackathon](https://github.com/Find-Hackathon) -  A Cross-Platform Mobile Application for finding Hackathons. 🧊 `Unmaintained`
+- [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
+- [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons.
+- [Upcoding](https://github.com/sahanmndl/UpCoding-Web) - Get event details of competitive programming contests, hackathons etc.
 
 ### Teambuilding
 
@@ -92,7 +99,7 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
-- [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
+- [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
 - [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
