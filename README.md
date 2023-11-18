@@ -12,26 +12,32 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ## Platforms
 
-> By _awesome hackathon platforms_, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results.
+By _awesome hackathon platforms_, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results.
 
 ### Open Source
 
-> These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
+> These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities. 
 
 - [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards.
 - [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
-- [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) -  All-in-one platform for hackathon registration & logistics. 🧊 `Unmaintained`
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
-- [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
 - [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
 - [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 - [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
-- [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed especially for hackathons and similar competitions.
-- [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform. 🧊 `Unmaintained`
 - [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
-- [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
-- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons. 🧊 `Unmaintained`
 - [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
+
+### Unmaintained
+
+> These projects, while open source, are currently not showing signs of active development (🧊). Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
+
+- [Find Hackathon](https://github.com/Find-Hackathon) - A Cross-Platform Mobile Application for finding Hackathons.
+- [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) -  All-in-one platform for hackathon registration & logistics.
+- [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
+- [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
+- [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed especially for hackathons and similar competitions.
+- [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
+- [VersusVirus App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons.
 
 ### Closed Source
 
@@ -68,7 +74,6 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ### Promoting
 
-- [Find Hackathon](https://github.com/Find-Hackathon) -  A Cross-Platform Mobile Application for finding Hackathons. 🧊 `Unmaintained`
 - [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
