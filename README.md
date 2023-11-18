@@ -59,17 +59,20 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ### Organizing
 
+- [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
 - [BoilerBot](https://github.com/BoilerMake/boilerbot) - Take control of your Slack by creating groups, assigning tasks, and more.
 - [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) - As well as [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 
 ### Teambuilding
 
 - [Dridbot](https://github.com/dribdat/dridbot) - Chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons.
+- [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form their own team based on challenges they want to tackle.
 
 ### Coaching
 
 - [HackMIT-HELPq](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 - [Treehacks-MentorBot](https://github.com/TreeHacks/slack-mentorship) - Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
+- [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
 
 ### Evaluating
 
