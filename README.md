@@ -23,14 +23,14 @@ A curated open list of platforms and tools that can help you to **organize and r
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
 - [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
 - [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
-- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing team building at large online hackathons, currently unmaintained.
+- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons, unmaintained.
 - [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 
 ### Closed Source
 
 > Despite having a presence on GitHub, the core sources of these applications are at this time closed (🔒). 
 
-- [Agorize](https://github.com/agorize) - A French company that provides open innovation software.
+- [Agorize](https://.com/agorize) - A French company that provides open innovation software.
 - [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
 - [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
@@ -85,6 +85,7 @@ A curated open list of platforms and tools that can help you to **organize and r
 > These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
+- [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
