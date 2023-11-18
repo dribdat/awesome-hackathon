@@ -19,9 +19,12 @@ A curated open list of platforms and tools that can help you to **organize and r
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
 - [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards.
+- [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
 - [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
+- [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed especially for hackathons and similar competitions.
+- [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
 - [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
 - [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons, unmaintained.
 - [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
@@ -53,15 +56,17 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 > These are frameworks, utilities and online tools for solving a variety of issues that hackathon organizers commonly face. They often have some way of integrating with the platforms above.  
 
-### Promoting
-
-- [Hackalist](https://github.com/Hackalist/Hackalist.github.io) -  A list of upcoming hackathons from around the world. 
-
 ### Organizing
 
-- [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
 - [BoilerBot](https://github.com/BoilerMake/boilerbot) - Take control of your Slack by creating groups, assigning tasks, and more.
 - [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) - As well as [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
+- [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
+
+### Promoting
+
+- [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme)🕶️  - A crowdsourced 'Awesome List' of companies to contact.
+- [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
+- [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
 
 ### Teambuilding
 
@@ -70,7 +75,8 @@ A curated open list of platforms and tools that can help you to **organize and r
 
 ### Coaching
 
-- [HackMIT-HELPq](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
+- [HELPq](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
+- [Hangar](https://github.com/AmericanAirlines/Hangar) - A Slack bot to help with judging and coaching at hackathons.
 - [Treehacks-MentorBot](https://github.com/TreeHacks/slack-mentorship) - Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
 - [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
 
@@ -89,6 +95,7 @@ A curated open list of platforms and tools that can help you to **organize and r
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources.
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
+- [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [Opendata.ch Guidelines](http://make.opendata.ch/wiki/information:rules) - A short principled list for open data hackathons from the Swiss community.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
