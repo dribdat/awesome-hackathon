@@ -27,6 +27,15 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
 - [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 
+### Closed Source 🔒
+
+> Despite having a presence on GitHub, the core sources of these applications are at this time closed. 
+
+- [Agorize](https://github.com/agorize) - A French company that provides open innovation software.
+- [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
+- [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
+- [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
+
 ### Unmaintained 🧊
 
 > These projects, while open source, are currently not showing signs of active development. Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
@@ -39,14 +48,6 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
 - [VersusVirus App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons.
 
-### Closed Source 🔒
-
-> Despite having a presence on GitHub, the core sources of these applications are at this time closed. 
-
-- [Agorize](https://.com/agorize) - A French company that provides open innovation software.
-- [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
-- [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
-- [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
 ### Organisations
 
@@ -55,11 +56,11 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Eventornado](https://eventornado.com/) provides an all-in-one platform for organising a hackathon.
 - [Hackathon.com](https://hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
 - [HackerEarth](https://www.hackerearth.com/) is a commercial platform for sourcing, assessing, interviewing, and upskilling developers.
-- [Hack2Skill](https://hack2skill.com) hosts events on their [own platform](https://hack2skill.com/organizeHack) and [online resources](https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon) for technology innovators.
+- [Hack2Skill](https://hack2skill.com) hosts events on their [own platform](https://hack2skill.com/organizeHack) and [shares resources](https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon) for technology innovators.
 - [HYPE](https://www.hypeinnovation.com/en/about) provides software to help idea and innovation managers collect and manage ideas.
 - [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
 - [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and organises hackathons, and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for using their products to run an event.
-- [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprises, whose spin-offs like [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/) are still active.
+- [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/)).
 - [Tulula](https://tulu.la/hackathons-and-challenges) runs online competitions and hackathons based on an [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start).
 - [Unstop](https://unstop.com/) provides virtual event platforms to organize hackathons and coding tests.
 
@@ -83,8 +84,8 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 
 ### Teambuilding
 
-- [Dridbot](https://github.com/dribdat/dridbot) - Chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons.
-- [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form their own team based on challenges they want to tackle.
+- [Dridbot](https://github.com/dribdat/dridbot) - Multiplatform chatbot, for pepping up the experience for participants and organizers of hackathons.
+- [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form a team based on challenges they want to tackle.
 
 ### Coaching
 
@@ -105,12 +106,12 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
+- [Hackathon Guidelines - Opendata.ch](https://opendata.ch/guidelines) - Principles for hackathons from the Swiss open data community.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
 - [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
-- [Opendata.ch Guidelines](http://make.opendata.ch/wiki/information:rules) - A short principled list for open data hackathons from the Swiss community.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
 - [McKinsey: Demystifying the hackathon](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon) - For digital transformation of large organizations.
 - [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - Suggestions from the Mediawiki community (which powers Wikipedia).
