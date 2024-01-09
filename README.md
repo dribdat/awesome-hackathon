@@ -48,7 +48,6 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
 - [VersusVirus App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons.
 
-
 ### Organisations
 
 > Companies that provide products and services for, or regularly organise, hackathons.
@@ -110,6 +109,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
+- [Hackday Manifesto](https://github.com/hackdaymanifesto/site) - How to make your event a success, and avoid common pitfalls.
 - [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
