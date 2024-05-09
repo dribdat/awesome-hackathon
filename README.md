@@ -56,7 +56,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Hackathon.com](https://www.hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
 - [HackerEarth](https://www.hackerearth.com/) is a commercial platform for sourcing, assessing, interviewing, and upskilling developers.
 - [Hack2Skill](https://hack2skill.com) hosts events on their [own platform](https://hack2skill.com/organizeHack) and [shares resources](https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon) for technology innovators.
-- [HYPE](https://www.hypeinnovation.com/en/about) provides software to help idea and innovation managers collect and manage ideas.
+- [HYPE](https://www.hypeinnovation.com/about) provides software to help idea and innovation managers collect and manage ideas.
 - [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
 - [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and organises hackathons, and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for using their products to run an event.
 - [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/)).
