@@ -59,7 +59,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [HYPE](https://www.hypeinnovation.com/about) provides software to help idea and innovation managers collect and manage ideas.
 - [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
 - [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and organises hackathons, and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for using their products to run an event.
-- [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/)).
+- [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/).
 - Tulula ran online competitions and hackathons based on an [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start). The platform is defunct, the guide is still helpful.
 - [Unstop](https://unstop.com/) provides virtual event platforms to organize hackathons and coding tests.
 
