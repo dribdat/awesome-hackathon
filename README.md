@@ -92,7 +92,6 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 
 - [HELPq](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 - [Hangar](https://github.com/AmericanAirlines/Hangar) - A Slack bot to help with judging and coaching at hackathons.
-- [Treehacks-MentorBot](https://github.com/TreeHacks/slack-mentorship) - Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
 - [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
 
 ### Evaluating
