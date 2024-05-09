@@ -78,7 +78,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
-- [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons.
+- [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 - [Upcoding](https://github.com/sahanmndl/UpCoding-Web) - Get event details of competitive programming contests, hackathons etc.
 
 ### Teambuilding
