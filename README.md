@@ -34,7 +34,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Agorize](https://github.com/agorize) - A French company that provides open innovation software.
 - [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
-- [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
+- [TAIKAI](https://github.com/taikai) - [Platform](https://taikai.network/) that connects creators and companies, using hackathons, bounties and hiring challenges.
 
 ### Unmaintained 🧊
 
