@@ -62,6 +62,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 > Companies that provide products and services for, or regularly organise, hackathons.
 
 - [Eventornado](https://eventornado.com/) provides an all-in-one platform for organising a hackathon.
+- [Hack the Hackathon](https://hackthackathon.github.io/) is an interdisciplinary community exploring scientific collaboration, learning, and civic engagement through hackathons.
 - [Hackathon.com](https://www.hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
 - [HackerEarth](https://www.hackerearth.com/) is a commercial platform for sourcing, assessing, interviewing, and upskilling developers.
 - [Hack2Skill](https://hack2skill.com) hosts events on their [own platform](https://hack2skill.com/organizeHack) and [shares resources](https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon) for technology innovators.
@@ -113,7 +114,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ## Guides
 
-> These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
+> These are helpful handbooks, literature collections and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
@@ -130,13 +131,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - Guide from Major League Hacking, popular at US schools.
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
 - [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - From a popular Web3 community.
-
-## Research
-
-> Where to find publications, researchers, literature collections, and ongoing studies with a focus on hackathons.
-
-- [Hack the Hackathon](https://hackthackathon.github.io/) - An unconference series and interdisciplinary community exploring scientific collaboration, learning, and civic engagement through hackathons.
-- [Zotero - Awesome Hackathon](https://www.zotero.org/groups/5538025/awesome_hackathons) - A web library of references on the Impacts, Landscape, Motivation and Organizing of hackathons.
+- [Zotero - Awesome Hackathon](https://www.zotero.org/groups/5538025/awesome_hackathons) - A web library of references on research into the Impacts, Landscape, Motivation and Organizing of hackathons.
 
 ## Contributing
 
