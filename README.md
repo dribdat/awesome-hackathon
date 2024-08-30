@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons. 
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons), 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12). 
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons), 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12). Are you interested in the _science_ of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#Contributing) section.
 
@@ -130,6 +130,13 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - Guide from Major League Hacking, popular at US schools.
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
 - [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - From a popular Web3 community.
+
+## Research
+
+> Where to find publications, researchers, literature collections, and ongoing studies with a focus on hackathons.
+
+- [Hack the Hackathon](https://hackthackathon.github.io/) - An unconference series and interdisciplinary community exploring scientific collaboration, learning, and civic engagement through hackathons.
+- [Zotero - Awesome Hackathon](https://www.zotero.org/groups/5538025/awesome_hackathons) - A web library of references on the Impacts, Landscape, Motivation and Organizing of hackathons.
 
 ## Contributing
 
