@@ -46,6 +46,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Agorize](https://github.com/agorize) ([www](https://www.agorize.com/)) - A French company that provides open innovation software.
 - [Devfolio](https://github.com/devfolioco) ([www](https://devfolio.co/)) - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) ([www](https://devpost.com)) - Recognizable U.S. company, whose customers market developer tools and jobs to the community.
+- [HackHQ](https://hackhq.io/) - All-in-one hackathon management platform for internal corporate hackathons with registration, submissions, judging, voting, and live results in 30 minutes.
 - [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada. 
 - [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
