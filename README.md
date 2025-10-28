@@ -49,7 +49,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada. 
 - [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
-- [Stackref](https://github.com/StackRef) ([www]([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
+- [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
 ### Unmaintained 🧊
