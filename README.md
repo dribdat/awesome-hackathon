@@ -24,10 +24,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [DeltaHacks Portal](https://github.com/deltahacks/portal) - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
 - [Dribdat](https://github.com/dribdat/dribdat) - **Hackathons for impact, based on open data and web standards.** `python` `js`
 - [Hack the Back](https://github.com/hackthevalley/hack-the-back) - An elegant backend, with ready-made GraphQL and REST endpoints.
-- [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
-- [HackathonManager](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
 - [Hackathon Management System](https://github.com/Teplitsa/hackathon) - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
-- [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) - Competition Management System for the GovHack Hackathon. `ruby`
 - [Halo](https://github.com/tcnj-acm/halo) - Hackathon Management System built on Django.
 - [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
@@ -56,7 +53,10 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [ApplicantAtlas](https://github.com/ApplicantAtlas/ApplicantAtlas) - Made for managing applicants, RSVPs and other communications.
 - [chronicel](https://github.com/kbohinski/chronicel) - A minimal registration system for a smaller, more personal hackathon.
 - [Find Hackathon](https://github.com/Find-Hackathon) - A Cross-Platform Mobile Application for finding Hackathons.
+- [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
+- [HackathonManager](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
 - [Hackatuning](https://github.com/leognmotta/hackatuning) - Early stage hackathon management platform. `js`
+- [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
 - [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
 - [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from [Devtranet](https://devtranet.tech/) for hosting virtual hackathons.
