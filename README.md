@@ -42,10 +42,11 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Agorize](https://github.com/agorize) ([www](https://www.agorize.com/)) - A French company that provides open innovation software.
 - [Devfolio](https://github.com/devfolioco) ([www](https://devfolio.co/)) - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) ([www](https://devpost.com)) - Recognizable U.S. company, whose customers market developer tools and jobs to the community.
+- [HackHQ](https://hackhq.io/) - All-in-one hackathon management platform for internal corporate hackathons with registration, submissions, judging, voting, and live results in 30 minutes.
 - [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada.
 - [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
-- [Stackref](https://github.com/StackRef) ([www]([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
+- [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
 ### Inactive 🧊
@@ -81,6 +82,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hack2Skill](https://hack2skill.com) hosts events on their [own platform](https://hack2skill.com/organizeHack) and [shares resources](https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon) for technology innovators.
 - [Hackathon.com](https://www.hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
 - [HackerEarth](https://www.hackerearth.com/) is a commercial platform for sourcing, assessing, interviewing, and upskilling developers.
+- [HackTribe](https://hacktribe.co/) provides a solution to simplify the hackathon process while maintaining features organisers need.
 - [HYPE](https://www.hypeinnovation.com/about) provides software to help idea and innovation managers collect and manage ideas.
 - [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
 - [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for hackathons - see the [AcademicContent](https://github.com/microsoft/AcademicContent/blob/main/hackathon-content.md) repo for participants.
