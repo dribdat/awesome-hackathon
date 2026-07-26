@@ -139,6 +139,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Gavel](https://github.com/anishathalye/gavel) - A project expo judging system by HackMIT that uses fancy math to get good results.
 - [MLH Judging Plan](https://guide.mlh.io/general-information/judging-and-submissions/judging-plan) - A science-fair type approach to evaluation.
 - [Rankeer](https://github.com/Lucasbrunoferreira/rankeer) - An elaborate student project about management and evaluation of hackathons.
+- [RunCue](https://runcue.fly.dev/pitch-timer) - A remote-controlled countdown for pitch and demo day sessions: the organizer runs the clock from a laptop, the room sees a clean auto-advancing timer, and a private cue warns before each team's time runs out.
 
 ## Guides
 
