@@ -60,7 +60,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackathon ideas into a dashboard.
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
 - [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
-- [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from [Devtranet](https://devtranet.tech/) for hosting virtual hackathons.
+- [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps for hosting virtual hackathons.
 - [hms](https://github.com/knoffhoff/hms) - Hackathon Management System for Azure by knoffhoff.
 - [Kent Hack Enough](https://github.com/hacksu/kenthackenough) - Legacy registration and staff management API for HackSU events.
 - [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed for hackathons and similar competitions.
@@ -88,9 +88,9 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
 - [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for hackathons - see the [AcademicContent](https://github.com/microsoft/AcademicContent/blob/main/hackathon-content.md) repo for participants.
 - [Nosu](https://www.nosu.io/) (formerly Sprint.dev) proprietary tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
-- [Random Hacks of Kindness](https://github.com/randomhacks) global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/)).
+- [Random Hacks of Kindness](https://github.com/randomhacks) global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/)).
 - [sprintd](https://sprintd.org/) - Hackathon advisory and platform with profiles, sprints, teams, outcomes. Built in Switzerland by members of StartHack, available in Early Access.
-- [Tulula](https://tulu.la/hackathons-and-challenges) runs online competitions and hackathons based on an [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start).
+- [Tulula](https://www.youtube.com/@TululaInc/videos) (discontinued) used to run competitions and hackathons based on an [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start).
 - [Unstop](https://unstop.com/) provides virtual event platforms to organize hackathons and coding tests.
 
 ## Tooling
@@ -151,7 +151,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
-- [Guides et documentation data.gouv.fr](https://guides.data.gouv.fr/autres-ressources-utiles/guide-du-participant-au-hackathon-meteo/ressources-du-hackathon) - (In French) Documentation for open government data hackathon organizers.
+- [Guides et documentation data.gouv.fr](https://guides.data.gouv.fr/guides/autres-ressources-utiles/guide-du-participant-au-hackathon-le-climat-en-donnees/ressources-du-hackathon) - (In French) Documentation for open government data hackathon organizers.
 - [Hackathon Guidelines - Opendata.ch](https://opendata.ch/guidelines) - Principles for hackathons from the Swiss open data community.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
