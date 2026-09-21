@@ -20,17 +20,17 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
-- [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
-- [DeltaHacks Portal](https://github.com/deltahacks/portal) - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
-- [Dribdat](https://github.com/dribdat/dribdat) - **Hackathons for impact, based on open data and web standards.** `python` `js`
-- [Hack the Back](https://github.com/hackthevalley/hack-the-back) - An elegant backend, with ready-made GraphQL and REST endpoints.
+- [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects. `python` `js`
+- [DeltaHacks Portal](https://github.com/deltahacks/portal) - The attendee & admin portal for DeltaHacks 10, the hackathon for change. `ts` `js`
+- [Dribdat](https://github.com/dribdat/dribdat) - Hackathons for impact, based on open data and web standards. `python` `js`
+- [Hack the Back](https://github.com/hackthevalley/hack-the-back) - An elegant backend, with ready-made GraphQL and REST endpoints. `python`
 - [Hackathon Management System](https://github.com/Teplitsa/hackathon) - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
 - [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) - Competition Management System for the GovHack Hackathon. `ruby`
-- [Halo](https://github.com/tcnj-acm/halo) - Hackathon Management System built on Django.
-- [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
-- [JunctionApp](https://github.com/hackjunction/JunctionApp) - All-in-one hackathon platform for organisers, maintained by Junction.
-- [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
-- [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects.
+- [Halo](https://github.com/tcnj-acm/halo) - Hackathon Management System built on Django. `python`
+- [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC. `js` `python`
+- [JunctionApp](https://github.com/hackjunction/JunctionApp) - All-in-one hackathon platform for organisers, maintained by Junction. `js`
+- [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js. `js`
+- [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects. `js` `python`
 
 ### Closed Source 🔒
 
@@ -40,12 +40,10 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Devfolio](https://github.com/devfolioco) ([www](https://devfolio.co/)) - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) ([www](https://devpost.com)) - Recognizable U.S. company, whose customers market developer tools and jobs to the community.
 - [HackathonHost](https://hackathonhost.com/) - White-label platform for hackathons and game jams, covering registration, team formation, weighted judging, certificates and post-event analytics. Flat price per event, free for universities.
-- [HackHQ](https://hackhq.io/) - All-in-one hackathon and competition platform with built-in registration, submissions, judging, and live results. No account required for participants or judges. Launch your event in 30 minutes.
+- [HackHQ](https://github.com/hackhqio) ([www](https://hackhq.io/)) - All-in-one hackathon and competition platform with built-in registration, submissions, judging, and live results. No account required for participants or judges. Launch your event in 30 minutes.
 - [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada.
-- [Hackyard](https://hackyard.tech) - Community-driven AI hackathons for solo builders. Small, capped weekly events where the theme drops at kickoff, everyone builds solo with any AI model, and the community votes with counts hidden until close.
-- [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
-- [sprintd](https://app.sprintd.org/) - Builder profiles, sprints, teams, outcomes. In one place. Built in Switzerland, available in Early Access.
+- [Hackyard](https://github.com/joinhackyard) ([www](https://hackyard.tech)) - Community-driven AI hackathons for solo builders. Small, capped weekly events where the theme drops at kickoff, everyone builds solo with any AI model, and the community votes with counts hidden until close.
 - [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
@@ -89,7 +87,9 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HYPE](https://www.hypeinnovation.com/about) provides software to help idea and innovation managers collect and manage ideas.
 - [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
 - [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for hackathons - see the [AcademicContent](https://github.com/microsoft/AcademicContent/blob/main/hackathon-content.md) repo for participants.
+- [Nosu](https://www.nosu.io/) (formerly Sprint.dev) proprietary tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
 - [Random Hacks of Kindness](https://github.com/randomhacks) global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/)).
+- [sprintd](https://sprintd.org/) - Hackathon advisory and platform with profiles, sprints, teams, outcomes. Built in Switzerland by members of StartHack, available in Early Access.
 - [Tulula](https://tulu.la/hackathons-and-challenges) runs online competitions and hackathons based on an [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start).
 - [Unstop](https://unstop.com/) provides virtual event platforms to organize hackathons and coding tests.
 
