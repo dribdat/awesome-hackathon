@@ -179,6 +179,6 @@ Contributions welcome! Please read the [guidelines](contributing.md) first. Make
 
 ## Footnotes
 
-This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
+This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) by Darshak Parikh, and motivated by an earlier list by Camille Considine.
 
 Licensed [CC0 - Creative Commons Public Domain](LICENSE)
