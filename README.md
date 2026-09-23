@@ -43,7 +43,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HackHQ](https://github.com/hackhqio) ([www](https://hackhq.io/)) - All-in-one hackathon and competition platform with built-in registration, submissions, judging, and live results. No account required for participants or judges. Launch your event in 30 minutes.
 - [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada.
-- [Hackyard](https://github.com/joinhackyard) ([www](https://hackyard.tech)) - Community-driven AI hackathons for solo builders. Small, capped weekly events where the theme drops at kickoff, everyone builds solo with any AI model, and the community votes with counts hidden until close.
+- [Hackyard](https://hackyard.tech) - Community-driven AI hackathons for solo builders. Small, capped week-long events twice a month: one theme, everyone builds solo with any AI model, and the community votes with counts hidden until close.
 - [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
