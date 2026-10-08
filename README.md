@@ -99,6 +99,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Organizing
 
+- [AllBack](https://www.allback.ai) - Form builder with automatic reminders. Sends each participant, speaker, or volunteer a personal link, reminds only the people who have not answered, and shows who is still missing. Business plan free for volunteer-run communities.
 - [BoilerBot](https://github.com/BoilerMake/boilerbot) - Take control of your Slack by creating groups, assigning tasks, and more.
 - [Hackme](https://github.com/p1utoze/Hackme) (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
 - [HaQR](https://github.com/drewthoennes/HaQR) (unmaintained) - A modular QR code management system for hackathons and other events.
