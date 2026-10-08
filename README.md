@@ -100,6 +100,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 ### Organizing
 
 - [BoilerBot](https://github.com/BoilerMake/boilerbot) - Take control of your Slack by creating groups, assigning tasks, and more.
+- [Connections](https://connections.icu/for-hosts) - Free event pages with registration and ticketing on the host's own Stripe, plus a contact book and follow-up CRM for participants, sponsors and mentors.
 - [Hackme](https://github.com/p1utoze/Hackme) (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
 - [HaQR](https://github.com/drewthoennes/HaQR) (unmaintained) - A modular QR code management system for hackathons and other events.
 - [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) - As well as [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
