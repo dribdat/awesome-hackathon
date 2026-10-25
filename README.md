@@ -46,6 +46,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hackyard](https://hackyard.tech) - Community-driven AI hackathons for solo builders. Small, capped week-long events twice a month: one theme, everyone builds solo with any AI model, and the community votes with counts hidden until close.
 - [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
+- [Uppcoder](https://github.com/websson) ([www](https://portal.uppcoder.com/hackathons)) - Registration and teams, a ready cloud workspace with VS Code and a terminal for every team, hidden tests and judge scores combined into a live leaderboard, and per-team cost caps.
 
 ### Inactive 🧊
 
