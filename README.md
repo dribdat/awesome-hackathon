@@ -112,6 +112,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
 - [Hackamaps](https://hackamaps.com) - A global hackathon map and discovery tool for finding events, prize pools, and co-founders.
 - [Hack-HQ](https://github.com/Hack-HQ/hackhq) ([www](https://hacking-hq.com/)) - A curated, community-driven list of open & upcoming hackathons, updated automatically.
+- [HACKERS](https://hackers.pocketplay.win/en/) - Live Devpost hackathons and Kaggle competitions for beginners, ranked by a transparent beginner score, with a deadline calendar and first-timer guides.
 - [Scrapbook](https://github.com/hackclub/scrapbook) by HackClub - A daily streak system & portfolio for your projects.
 - [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 - [Upcoding](https://github.com/sahanmndl/UpCoding-Web) - Get event details of competitive programming contests, hackathons etc.
