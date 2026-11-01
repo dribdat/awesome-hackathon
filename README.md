@@ -107,6 +107,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Promoting
 
+- [GBA AI Calendar](https://wqai.ltd/en/calendar/race/index.html) - AI hackathons and competitions in China's Greater Bay Area (Shenzhen, Hong Kong, Guangzhou), with an .ics feed and monthly open data on [GitHub](https://github.com/tgchtggn29-bit/gba-ai-events).
 - [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world.
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
