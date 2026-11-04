@@ -163,6 +163,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hack Tools](https://hack-tools.github.io/) - Theodoros Ploumis has great advice for attendees, evaluators and organizers.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [LauzHack How-To](https://hackorgx.dribdat.cc/project/31) - Guides for the student organizers of flagship and mini-sized hackathons in Lausanne.
+- [Live Demo Rehearsal Worksheet](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) - A free checklist for event hosts to confirm what remote attendees can see after a slide or window change, and to record any fixes and retests.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
 - [McKinsey: Demystifying the hackathon](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon) - For digital transformation of large organizations.
 - [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - Suggestions from the Mediawiki community (which powers Wikipedia).
