@@ -107,6 +107,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Promoting
 
+- [AI Hackathon](https://aihackathon.app/) - Curated directory of open online AI hackathons breaking out cash prizes vs. free credits, solo eligibility, country limits, and L1–L4 code ownership rules.
 - [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world.
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
