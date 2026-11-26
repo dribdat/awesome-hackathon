@@ -107,6 +107,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Promoting
 
+- [Dapping](https://dapp.ing/hackathons) - Listings of crypto and AI hackathons, where the organizer can issue each participant's result to their builder profile.
 - [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world.
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
